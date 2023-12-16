@@ -1,0 +1,130 @@
+.music720-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.music720-music720 {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(87, 162, 119, 1);
+}
+.music720-music-background-contribution {
+  top: 0px;
+  left: 284px;
+  width: 996px;
+  height: 720px;
+  position: absolute;
+}
+.music720-text {
+  color: rgba(236, 240, 241, 1);
+  width: 22.1875%;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  box-shadow: 4px 4px 4px 0px rgba(44, 62, 80, 0.5) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.music720-text2 {
+  top: 116px;
+  left: 284px;
+  color: rgba(87, 162, 119, 1);
+  width: 996px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  box-shadow: 2px 2px 4px 0px rgba(236, 240, 241, 0.11999999731779099) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.music720-text4 {
+  top: 384px;
+  left: 284px;
+  color: rgba(87, 162, 119, 1);
+  width: 996px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  box-shadow: 2px 2px 4px 0px rgba(236, 240, 241, 0.11999999731779099) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.music720-xf2d {
+  top: 204px;
+  left: 716px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-steroids {
+  top: 471px;
+  left: 716px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-ce {
+  top: 204px;
+  left: 536px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-dda {
+  top: 471px;
+  left: 536px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-fytd {
+  top: 204px;
+  left: 1074px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-eaam {
+  top: 204px;
+  left: 357px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-xf2 {
+  top: 204px;
+  left: 895px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}
+.music720-toyota {
+  top: 471px;
+  left: 895px;
+  width: 10.390625%;
+  height: 18.4722222%;
+  position: absolute;
+}

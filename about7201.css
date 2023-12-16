@@ -1,0 +1,56 @@
+.about7201-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about7201-about720 {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(87, 162, 119, 1);
+}
+.about7201-policy-background-contribution {
+  top: 0px;
+  left: 284px;
+  width: 996px;
+  height: 722px;
+  position: absolute;
+}
+.about7201-text {
+  left: 309px;
+  color: rgba(87, 162, 119, 1);
+  width: 946px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  box-shadow: 2px 2px 4px 0px rgba(236, 240, 241, 0.11999999731779099) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about7201-text11 {
+  color: rgba(236, 240, 241, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  box-shadow: 4px 4px 4px 0px rgba(44, 62, 80, 0.5) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
