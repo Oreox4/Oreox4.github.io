@@ -35,7 +35,6 @@
   display: flex;
   position: absolute;
   font-size: 1250%;
-  box-shadow: 2px 2px 4px 0px rgba(236, 240, 241, 0.25) ;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -56,7 +55,6 @@
   display: flex;
   position: absolute;
   font-size: 187.5%;
-  box-shadow: 2px 2px 4px 0px rgba(236, 240, 241, 0.11999999731779099) ;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -73,7 +71,6 @@
   display: flex;
   position: absolute;
   font-size: 437.5%;
-  box-shadow: 4px 4px 4px 0px rgba(44, 62, 80, 0.5) ;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -93,7 +90,6 @@
   display: flex;
   position: absolute;
   font-size: 437.5%;
-  box-shadow: 4px 4px 4px 0px rgba(44, 62, 80, 0.5) ;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -148,7 +144,6 @@
   display: flex;
   position: absolute;
   font-size: 125%;
-  box-shadow: 4px 4px 4px 0px rgba(44, 62, 80, 0.5) ;
   font-style: Regular;
   text-align: center;
   align-items: center;
