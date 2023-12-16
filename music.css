@@ -175,6 +175,9 @@
   justify-content: center;
   text-decoration: none;
 }
+.music-link5 {
+  display: contents;
+}
 .music-eaam {
   top: 28.3333333%;
   left: 27.890625%;
@@ -184,8 +187,9 @@
   position: absolute;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
-.music-link5 {
+.music-link6 {
   display: contents;
 }
 .music-xf2 {
@@ -199,7 +203,7 @@
   justify-content: center;
   text-decoration: none;
 }
-.music-link6 {
+.music-link7 {
   display: contents;
 }
 .music-toyota {
