@@ -1,4 +1,4 @@
-.about7201-container {
+.policy-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -6,9 +6,9 @@
   align-items: center;
   flex-direction: column;
 }
-.about7201-about720 {
+.policy-about720 {
   width: 100%;
-  height: 720px;
+  height: 100vh;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -16,21 +16,20 @@
   flex-shrink: 0;
   background-color: rgba(87, 162, 119, 1);
 }
-.about7201-policy-background-contribution {
+.policy-policy-background-contribution {
   top: 0px;
-  left: 284px;
-  width: 996px;
-  height: 722px;
+  left: 22.1875%;
+  width: 100%;
+  height: 100%;
   position: absolute;
 }
-.about7201-text {
-  left: 309px;
+.policy-text {
+  left: 24.140625%;
   color: rgba(87, 162, 119, 1);
   width: 946px;
   height: auto;
   position: absolute;
   font-size: 50px;
-  box-shadow: 2px 2px 4px 0px rgba(236, 240, 241, 0.11999999731779099) ;
   font-style: Regular;
   text-align: center;
   font-family: IBM Plex Mono;
@@ -39,18 +38,23 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.about7201-text11 {
+.policy-text11 {
+  top: 0%;
+  left: 0%;
   color: rgba(236, 240, 241, 1);
-  width: 284px;
-  height: auto;
+  width: 22.1875%;
+  height: 12.3611111%;
+  display: flex;
   position: absolute;
   font-size: 70px;
-  box-shadow: 4px 4px 4px 0px rgba(44, 62, 80, 0.5) ;
   font-style: Regular;
   text-align: center;
+  align-items: center;
   font-family: IBM Plex Mono;
-  font-weight: 400;
+  font-weight: bold;
   line-height: normal;
+  text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
   font-stretch: normal;
+  justify-content: center;
   text-decoration: none;
 }

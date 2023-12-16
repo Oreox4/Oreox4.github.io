@@ -65,7 +65,7 @@
   text-decoration: none;
 }
 .index-text04 {
-  color: rgba(236, 240, 241, 1);
+  color: rgb(236, 240, 241);
   width: 22.1875%;
   height: 12.3611111%;
   display: flex;
@@ -74,15 +74,16 @@
   font-style: Regular;
   text-align: center;
   align-items: center;
-  font-family: IBM Plex Mono;
+  font-family: "IBM Plex Mono";
   font-weight: bold;
   line-height: normal;
   text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
   font-stretch: normal;
   vertical-align: middle;
   justify-content: center;
+  text-decoration: none;
 }
-.index-text06 {
+.index-text05 {
   top: 12.3611111%;
   color: rgba(236, 240, 241, 1);
   width: 22.1875%;
@@ -102,7 +103,7 @@
   justify-content: center;
   text-decoration: none;
 }
-.index-text08 {
+.index-text07 {
   top: 24.7222222%;
   color: rgba(236, 240, 241, 1);
   width: 22.1875%;
@@ -118,8 +119,9 @@
   text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
   font-stretch: normal;
   justify-content: center;
+  text-decoration: none;
 }
-.index-text10 {
+.index-text09 {
   top: 87.6388889%;
   color: rgba(236, 240, 241, 1);
   width: 22.1875%;
@@ -135,8 +137,9 @@
   text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
   font-stretch: normal;
   justify-content: center;
+  text-decoration: none;
 }
-.index-text12 {
+.index-text11 {
   top: 80.4166667%;
   color: rgba(236, 240, 241, 1);
   width: 22.1875%;

@@ -1,0 +1,215 @@
+.music-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.music-music720 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(87, 162, 119, 1);
+}
+.music-music-background-contribution {
+  top: 0%;
+  left: 22.1875%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.music-text {
+  color: rgba(236, 240, 241, 1);
+  width: 22.1875%;
+  height: 12.3611111%;
+  display: flex;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: center;
+  align-items: center;
+  font-family: IBM Plex Mono;
+  font-weight: bold;
+  line-height: normal;
+  text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
+  font-stretch: normal;
+  justify-content: center;
+  scroll-behavior: center;
+  text-decoration: none;
+}
+.music-text2 {
+  top: 16.1111111%;
+  left: 22.1875%;
+  color: rgba(87, 162, 119, 1);
+  width: 77.8125%;
+  height: 5.97222222%;
+  display: flex;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  align-items: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-text4 {
+  top: 23%;
+  color: rgb(87, 162, 119);
+  right: 0px;
+  width: 77.8125%;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  align-items: center;
+  font-family: "IBM Plex Mono";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-text5 {
+  font-size: 8px;
+}
+.music-text6 {
+  font-size: 10px;
+}
+.music-text7 {
+  top: 53.3333333%;
+  left: 22.1875%;
+  color: rgba(87, 162, 119, 1);
+  width: 77.8125%;
+  height: 5.97222222%;
+  display: flex;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  align-items: center;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link {
+  display: contents;
+}
+.music-xf2d {
+  top: 28.3333333%;
+  left: 55.9375%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link1 {
+  display: contents;
+}
+.music-steroids {
+  top: 65.4166667%;
+  left: 55.9375%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link2 {
+  display: contents;
+}
+.music-ce {
+  top: 28.3333333%;
+  left: 41.875%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link3 {
+  display: contents;
+}
+.music-dda {
+  top: 65.4166667%;
+  left: 41.875%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link4 {
+  display: contents;
+}
+.music-fytd {
+  top: 28.3333333%;
+  left: 83.90625%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-eaam {
+  top: 28.3333333%;
+  left: 27.890625%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.music-link5 {
+  display: contents;
+}
+.music-xf2 {
+  top: 28.3333333%;
+  left: 69.921875%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link6 {
+  display: contents;
+}
+.music-toyota {
+  top: 65.4166667%;
+  left: 69.921875%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
