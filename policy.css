@@ -46,7 +46,7 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 70px;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -66,7 +66,7 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 437.5%;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -87,7 +87,7 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 437.5%;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -106,32 +106,13 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 437.5%;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
   font-family: IBM Plex Mono;
   font-weight: bold;
   text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
-  font-stretch: normal;
-  justify-content: center;
-  text-decoration: none;
-}
-.policy-text19 {
-  top: 80.4166667%;
-  left: 0px;
-  color: rgba(236, 240, 241, 1);
-  width: 22.1875%;
-  height: 7.22222222%;
-  display: flex;
-  position: absolute;
-  font-size: 125%;
-  font-style: Regular;
-  text-align: center;
-  align-items: center;
-  font-family: IBM Plex Mono;
-  font-weight: 400;
-  line-height: normal;
   font-stretch: normal;
   justify-content: center;
   text-decoration: none;

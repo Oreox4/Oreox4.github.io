@@ -29,7 +29,7 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 70px;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -62,31 +62,6 @@
   text-decoration: none;
 }
 .music-text04 {
-  top: 23%;
-  color: rgb(87, 162, 119);
-  right: 0px;
-  width: 77.8125%;
-  height: 12px;
-  display: flex;
-  position: absolute;
-  font-size: 50px;
-  font-style: Regular;
-  text-align: center;
-  align-items: center;
-  font-family: "IBM Plex Mono";
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  justify-content: center;
-  text-decoration: none;
-}
-.music-text05 {
-  font-size: 8px;
-}
-.music-text06 {
-  font-size: 10px;
-}
-.music-text07 {
   top: 53.3333333%;
   left: 22.1875%;
   color: rgba(87, 162, 119, 1);
@@ -209,7 +184,7 @@
   justify-content: center;
   text-decoration: none;
 }
-.music-text09 {
+.music-text06 {
   top: 12.3611111%;
   left: 0px;
   color: rgba(236, 240, 241, 1);
@@ -217,7 +192,7 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 437.5%;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
@@ -230,26 +205,26 @@
   justify-content: center;
   text-decoration: none;
 }
-.music-text11 {
+.music-text08 {
   top: 24.7222222%;
   left: 0px;
-  color: rgba(236, 240, 241, 1);
+  color: rgb(236, 240, 241);
   width: 22.1875%;
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 437.5%;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
-  font-family: IBM Plex Mono;
+  font-family: "IBM Plex Mono";
   font-weight: bold;
   text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
   font-stretch: normal;
   justify-content: center;
   text-decoration: none;
 }
-.music-text13 {
+.music-text09 {
   top: 87.6388889%;
   left: 0px;
   color: rgba(236, 240, 241, 1);
@@ -257,32 +232,13 @@
   height: 12.3611111%;
   display: flex;
   position: absolute;
-  font-size: 437.5%;
+  font-size: 6vmin;
   font-style: Regular;
   text-align: center;
   align-items: center;
   font-family: IBM Plex Mono;
   font-weight: bold;
   text-shadow: 4px 4px rgba(0, 0, 0, 0.25) ;
-  font-stretch: normal;
-  justify-content: center;
-  text-decoration: none;
-}
-.music-text15 {
-  top: 80.4166667%;
-  left: 0px;
-  color: rgba(236, 240, 241, 1);
-  width: 22.1875%;
-  height: 7.22222222%;
-  display: flex;
-  position: absolute;
-  font-size: 125%;
-  font-style: Regular;
-  text-align: center;
-  align-items: center;
-  font-family: IBM Plex Mono;
-  font-weight: 400;
-  line-height: normal;
   font-stretch: normal;
   justify-content: center;
   text-decoration: none;
