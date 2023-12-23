@@ -98,7 +98,7 @@
 }
 .music-steroids {
   top: 65.4166667%;
-  left: 55.9375%;
+  left: 62.96875%;
   width: 10.390625%;
   display: flex;
   position: absolute;
@@ -124,7 +124,7 @@
 }
 .music-dda {
   top: 65.4166667%;
-  left: 41.875%;
+  left: 48.90625%;
   width: 10.390625%;
   display: flex;
   position: absolute;
@@ -133,6 +133,23 @@
   text-decoration: none;
 }
 .music-link4 {
+  display: contents;
+}
+.music-open-faced-non-sandwich {
+  top: 65.4166667%;
+  left: 34.84375%;
+  width: 9.9%;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 10px 0px #000000;
+  align-items: center;
+  border-color: #ffffff;
+  border-style: ridge;
+  border-width: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.music-link5 {
   display: contents;
 }
 .music-fytd {
@@ -145,7 +162,7 @@
   justify-content: center;
   text-decoration: none;
 }
-.music-link5 {
+.music-link6 {
   display: contents;
 }
 .music-eaam {
@@ -158,7 +175,7 @@
   justify-content: center;
   text-decoration: none;
 }
-.music-link6 {
+.music-link7 {
   display: contents;
 }
 .music-xf2 {
@@ -171,12 +188,12 @@
   justify-content: center;
   text-decoration: none;
 }
-.music-link7 {
+.music-link8 {
   display: contents;
 }
 .music-toyota {
   top: 65.4166667%;
-  left: 69.921875%;
+  left: 76.953125%;
   width: 10.390625%;
   display: flex;
   position: absolute;
